@@ -1,0 +1,2 @@
+Alfred-Workflow==1.36
+pyotp==2.2.7
